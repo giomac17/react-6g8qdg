@@ -1,0 +1,72 @@
+html {
+  background-color: black;
+  font-family: sans-serif;
+  color: white;
+}
+
+.description {
+  color: lightgray;
+}
+.notes {
+  font-style: italic;
+  font-size: small;
+  color: gray;
+}
+
+.texts {
+  width: 40%;
+  display: inline-block;
+}
+.images {
+  width: 60%;
+  display: inline-block;
+}
+
+img {
+  width: 100%;
+}
+
+.thumbnail {
+  width: 6000px;
+}
+
+.scroll {
+  overflow: scroll;
+}
+
+.thumbnail img {
+  width: 200px;
+  height: 160px;
+  display: inline;
+  margin: 0 12px 0 0;
+}
+
+.button {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  border: none;
+  width: 170px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  margin: 5px 5px 5px 5px;
+}
+
+.login {
+  background-color: rgb(44, 44, 44);
+  margin: auto;
+  width: 190px;
+  padding: 10px;
+  margin-top: 50px;
+}
+
+.loginNotes {
+  font-style: italic;
+  font-size: x-small;
+  text-align: start;
+}
+
+.Accedi {
+  text-align: center;
+}
